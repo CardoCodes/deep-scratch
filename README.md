@@ -22,4 +22,4 @@ Overlead has a great collection of examples for writing in LaTex. Specifically i
 This is an MIT Press book by Ian Goodfellow, Yoshua Bengio, and Aaron Courville. It is available for free online at http://www.deeplearningbook.org/.
 
 ## Deep Learning From Scratch
-Deep Learning From Scartch by Seth Weidman is a book published by O'Reilly Media. It is available for free purchase at https://www.oreilly.com/library/view/deep-learning-from/9781492041405/
+Deep Learning From Scartch by Seth Weidman is a book published by O'Reilly Media. It is available for purchase at https://www.oreilly.com/library/view/deep-learning-from/9781492041405/
