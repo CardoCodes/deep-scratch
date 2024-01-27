@@ -12,7 +12,7 @@ To Contribute follow the steps below:
 ## Table of Contents
 1. [Math and ML Foundations](#math-and-ml-foundations)
 
-# Books & More
+# Resources & More
 Here are some books and other resources that I found useful in learning the foundations of mathematics and machine learning. I hope you find them useful too!
 
 ## Overleaf
